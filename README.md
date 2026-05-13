@@ -1,2 +1,0 @@
-# NEXTJS
-Next.JS Mastery
