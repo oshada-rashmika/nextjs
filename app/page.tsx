@@ -1,7 +1,12 @@
+import Hello from "@/components/hello";
+
 const Home = () => {
 
   return (
-    <div className="text-2xl underline">Welcome to Next.JS</div>
+    <main>
+      <div className="text-2xl underline">Welcome to Next.JS</div>
+      <Hello />
+    </main>
   )
 }
 
