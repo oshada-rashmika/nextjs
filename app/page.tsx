@@ -1,6 +1,7 @@
 const Home = () => {
+
   return (
-    <div>Welcome to Next.JS</div>
+    <div className="text-2xl underline">Welcome to Next.JS</div>
   )
 }
 
